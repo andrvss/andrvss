@@ -1,4 +1,4 @@
-### Hey! Boas vindas ao meu perfil! :-)
+### Boas vindas ao meu perfil! :-)
 
 <div align="center">
   <a href="https://github.com/andrvss">
