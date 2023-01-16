@@ -10,11 +10,8 @@
 ⠀⠀
 
 ##
-⠀⠀
-<div align="center">  
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andrvss&show_icons=true&count_private=true&hide_border=true&title_color=3088DE&icon_color=3088DE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrvss&layout=compact&hide_border=true&title_color=3088DE&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrvss&bg_color=0d1117&color=3088de&line=3088de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="andrvss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
