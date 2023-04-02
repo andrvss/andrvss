@@ -7,8 +7,6 @@
 - 👨‍🎓 Ex-estudante de Programação Web Java no Instituto PROA.
 
 - 🔍 Você pode encontrar minhas redes sociais abaixo.
-
-- 🖥️ Apaixonado pela área de Tecnologia.
 ⠀⠀
 
 ##
