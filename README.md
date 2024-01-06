@@ -21,8 +21,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="andrvss-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="andrvss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="andrvss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="andrvss-UIKit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uikit/uikit-original.svg">
+  <img align="center" alt="andrvss-SwiftUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiftui/swiftui-original.svg">
   <img align="center" alt="andrvss-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="andrvss-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
