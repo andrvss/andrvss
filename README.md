@@ -4,9 +4,11 @@
 
 - 🧑🏽‍💻 iOS Developer at Banco PAN.
 
-- 📚 Instituto PROA, 2* period of 2022.
+- 🎓 Sistemas de Informação at Impacta Tecnologia.
 
-- 🔍 You can find all my social media right below.
+- 💻 Instituto PROA, Web Developer Java on the 2* period of 2022.
+
+- 🔍 You can find all my social media right below, use it for contact and more infos.
 ⠀⠀
 
 ##
