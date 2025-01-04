@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF5F15&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5F15&size=30&center=true&vCenter=true&width=1000&lines=Hey!;+My+name+is+Paulo+Andres;I+am+20+years+old;I'm+from++São+Paulo,+Brasil;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5F15&size=30&center=true&vCenter=true&width=1000&lines=Hey!;+My+name+is+Paulo+Andres;I+am+22+years+old;I'm+from++São+Paulo,+Brasil;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-- 🧑🏽‍💻 iOS Developer at Banco PAN.
+- 🧑🏽‍💻 iOS Developer in Entry Level stage.
 
-- 🎓 Sistemas de Informação at Impacta Tecnologia.
+- 🎓 Sistemas de Informação at Faculdade Impacta Tecnologia.
 
 - 💻 Instituto PROA, Web Developer Java on the 2* period of 2022.
 
@@ -30,7 +30,7 @@
 ⠀⠀
 <div>
 <a href="https://www.linkedin.com/in/paulo-andres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/p.andrvss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/p.andrezz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pandres27103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 ⠀
