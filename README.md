@@ -4,9 +4,9 @@
 
 - 🧑🏽‍💻 iOS Developer in Entry Level stage.
 
-- 🎓 Sistemas de Informação at Faculdade Impacta Tecnologia.
+- 🎓 Análise e Desenv. de Sistemas at Faculdade Impacta Tecnologia.
 
-- 💻 Instituto PROA, Web Developer Java on the 2* period of 2022.
+- 💻 Instituto PROA, Web Developer Java Junior on the 2* period of 2022.
 
 - 🔍 You can find all my social media right below, use it for contact and more infos.
 ⠀⠀
